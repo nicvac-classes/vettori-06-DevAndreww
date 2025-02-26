@@ -57,7 +57,7 @@ int main()
         i=i+1;
     }
 
-    cout << "Il nome del vincitore è " << nomi[Imin] << " ed è  del paese " << nazionali[Imin] << " e il tempo è " << tempi[Imin] << "s." << endl;
+    cout << "Il nome del vincitore è " << nomi[Imin] << " ed è  del paese " << nazionali[Imin] << " e il tempo è " << tempi[Imin] << " s." << endl;
 }
 
 
